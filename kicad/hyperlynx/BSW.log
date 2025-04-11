@@ -1,0 +1,8 @@
+2024-11-25 16:03:50 17924     [INFO] ****** HyperLynx VX2.14 build 24553780 
+2024-11-25 16:03:50 17924     [INFO]        C:\MentorGraphics64\HLVX.2.14.1\SDD_HOME\hyperlynx64\BSW.EXE /dde 
+2024-11-25 16:03:50 17924     [INFO] HyperLynx: One or more licensed features will expire within 30 days. See the Setup > Options > License Status dialog box for more details. 
+2024-11-25 16:04:01 17924     [INFO] Opening Project C:\Users\RWache\OneDrive - Rockwell Automation, Inc\Simulation tools\GitHub\tiny-tdr\kicad\hyperlynx\TDR1.hyp
+2024-11-25 16:04:01 17924     [INFO] Opened Board: TDR1.hyp <C:\Users\RWache\OneDrive - Rockwell Automation, Inc\Simulation tools\GitHub\tiny-tdr\kicad\hyperlynx\>
+2024-11-25 17:10:33 17924     [INFO] Close HyperLynx Session: Design file: TDR1.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "Yes" button was selected
+2024-11-25 17:10:36 17924     [INFO] Closing Design: TDR1.hyp
+2024-11-25 17:10:36 17924     [INFO] ****** Closing HyperLynx 
